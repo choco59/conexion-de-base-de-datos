@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace conexion.Properties
+namespace conexion_de_base_de_datos.Properties
 {
 
 

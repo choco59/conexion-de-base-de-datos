@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\bin\Debug\conexion de base de datos.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\bin\Debug\conexion de base de datos.exe
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\bin\Debug\conexion de base de datos.pdb
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion de base de datos.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion_de_base_de_datos.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion_de_base_de_datos.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion de base de datos.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion de base de datos.exe
+c:\users\dell\documents\visual studio 2012\Projects\conexion de base de datos\conexion de base de datos\obj\Debug\conexion de base de datos.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace conexion
+namespace conexion_de_base_de_datos
 {
     static class Program
     {
